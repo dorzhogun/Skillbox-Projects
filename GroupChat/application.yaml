@@ -1,0 +1,5 @@
+spring.datasource.url: jdbc:mysql://localhost:3306/chat?useSSL=false&ServerTimeZone=UTC
+spring.datasource.username: root
+spring.datasource.password: Cnhtvktybt17!
+spring.jpa.hibernate.ddl-auto: create-drop
+
